@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaehoeso.pion.ly/sitemap.xml
